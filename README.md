@@ -1,4 +1,4 @@
-# editor22
+# ckeditor5 demo 
 
 ## Project setup
 ```
